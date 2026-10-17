@@ -8,4 +8,15 @@ How to run:
 
 Click on "More info".
 
-Click on "Run anyway"
+Click on "Run anyway
+
+📥 Download & Installation
+You can download the latest version of the executable directly from the Releases section:
+
+Go to the [https://github.com/heitorhanzelgontijo-svg/Hobbs-Home/releases/tag/game] page (or check the right sidebar on GitHub).
+
+Look for the latest release (e.g., v1.0.0).
+
+Under Assets, download the .exe file (or the .zip archive).
+
+Run the executable to start the application!
