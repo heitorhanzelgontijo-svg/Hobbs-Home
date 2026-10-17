@@ -13,7 +13,7 @@ Click on "Run anyway
 📥 Download & Installation
 You can download the latest version of the executable directly from the Releases section:
 
-Go to the [https://github.com/heitorhanzelgontijo-svg/Hobbs-Home/releases/tag/game] page (or check the right sidebar on GitHub).
+Go to the [https://github.com/heitorhanzelgontijo-svg/Hobbs-Home/releases/tag/game] page of 📥 Download
 
 Look for the latest release (e.g., v1.0.0).
 
