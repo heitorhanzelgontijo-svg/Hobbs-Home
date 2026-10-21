@@ -15,8 +15,4 @@ You can download the latest version of the executable directly from the Releases
 
 Go to the [https://github.com/heitorhanzelgontijo-svg/Hobbs-Home/releases/tag/game] page of 📥 Download
 
-Look for the latest release (e.g., v1.0.0).
-
-Under Assets, download the .exe file (or the .zip archive).
-
 Run the executable to start the application!
